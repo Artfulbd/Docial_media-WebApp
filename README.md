@@ -1,4 +1,4 @@
-# Docial_media-WebApp
+# Social_media-WebApp
 Project title: New generation social platform By Md. Ariful Haque In real life, we see many posts on our social platform. There nothing is neither 100% true nor 100% false. There exist many rumors, fake profiles, harassments etc. Many wants to change some rules of their social platform, they want something better than the thing they are using now.
 
 Considering all of those problems and good expectations, we attempt to make a new type of social platform, which has not been introduced till now, consisting these key features described below- There will be three types of user.  Super Admin.(One)  Admin. (Depends on user count)  Normal User. (Many) At first community will choose a perfect person physically, who will be their super admin, secondly all member of that community will sign up to that Social platform (Creat a new account). If interested they will send admin request to the super admin, but initially there will be two admin on the very beginning.
